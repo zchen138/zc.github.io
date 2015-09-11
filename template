@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+2 <html>
+3
+
+4 <head>
+5 	<!-- add styling to the assets/css folder-->
+6 	<link rel="stylesheet" type="text/css" href="assets/css/portfolio.css" />
+7
+
+8 </head>
+9
+
+10 <body>
+11 	<div class="body-center">
+12 	<!-- navbar -->
+13 	<div class="navbar">
+14 		<a href="index.html">Home</a>
+15 		<a href="aboutme.html">About Me</a>
+16 		<a href="projects.html">Projects</a>
+17 		<a href="contact.html">Contact</a>
+18 	</div>
+19 	<!-- end navbar -->
+20 	<br><br>
+21
+
+22 	<h2>Projects</h2>
+23
+24 	<h3>This Website</h3>
+25 	This is my online portfolio, which started as an assignment in ENG 100. Throughout this project I learned basic web development by coding in HTML/CSS, utilized source control for the project with Github, and managed my website hosting through FTP. I also implemented my own novel feature to the website by adding &lt;write about it here>.
+26
+27 </body>
+28
+
+29 </div>
+30
+31 	</div>
+32
+
+33
+
+34
+
+35
+
+36 	<!-- add javascript code to the assets/js folder-->
+37 	<script type="text/javascript" src="assets/js/portfolio.js"></script>
+38 </body>
+39 </html>
